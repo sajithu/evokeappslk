@@ -1,0 +1,13 @@
+{
+  "stories": [
+    {
+      "title": "kqjKlaldr lmqgd",
+      "id": "ks_1",
+      "cover": "images/ks_1.jpg",
+      "assets": "assets/ks_1.zip"
+    }
+  ],
+  "latest": [
+    "ks_1"
+  ]
+}
