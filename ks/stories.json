@@ -5,9 +5,16 @@
       "id": "ks_1",
       "cover": "images/ks_1.jpg",
       "assets": "assets/ks_1.zip"
+    },
+    {
+      "title": "mqxÑ w,s meáhd",
+      "id": "ks_2",
+      "cover": "images/ks_2.jpg",
+      "assets": "assets/ks_2.zip"
     }
   ],
   "latest": [
+    "ks_2",
     "ks_1"
   ]
 }
