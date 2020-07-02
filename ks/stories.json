@@ -11,9 +11,16 @@
       "id": "ks_2",
       "cover": "images/ks_2.jpg",
       "assets": "assets/ks_2.zip"
+    },
+    {
+      "title": "kßhd iy ñÈ je,",
+      "assets": "assets/ks_3.zip",
+      "cover": "images/ks_3.jpg",
+      "id": "ks_3"
     }
   ],
   "latest": [
+    "ks_3",
     "ks_2",
     "ks_1"
   ]
