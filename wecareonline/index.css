@@ -17,3 +17,6 @@
     font-weight: bold;
     border: none;
 }
+.bg-dark{
+    background-color: #2C2B4C !important;
+}
