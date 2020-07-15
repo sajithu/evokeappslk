@@ -1,0 +1,19 @@
+.text-purple{
+    color: #7E4FFF !important;
+}
+.navbar-white{
+    background-color: white !important;
+    border-bottom: 1px solid #F3F3F4;
+}
+.btn-purple{
+    background-color: #7E4FFF;
+    color: white;
+    border-radius: 2rem;
+    border-bottom-left-radius: 0 !important;
+    font-size: 1.5rem;
+    padding: 1rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    font-weight: bold;
+    border: none;
+}
