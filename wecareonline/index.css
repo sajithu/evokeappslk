@@ -26,6 +26,13 @@
     background-color: transparent;
     border: 4px solid #7E4FFF;
 }
+.list-group-item{
+    border-radius: 0.5rem !important;
+}
 .bg-dark{
     background-color: #2C2B4C !important;
+}
+.bg-purple{
+    background-color: #7E4FFF33;
+    border: none;
 }
