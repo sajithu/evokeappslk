@@ -36,3 +36,6 @@
     background-color: #7E4FFF33;
     border: none;
 }
+.rounded{
+    border-radius: 1rem !important;
+}

@@ -1,0 +1,9 @@
+$(document).ready(function(){
+    $('.slideshow').slick({
+        autoplay:true,
+        dots:true,
+        speed:500,
+        fade:true,
+        infinite:true
+    });
+});
