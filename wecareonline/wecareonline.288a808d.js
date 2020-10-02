@@ -5,4 +5,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"./img\\image-1.png":[["image-1.88b5baf6.png","jhMG"],"jhMG"]}],"Focm":[function(require,module,exports) {
 "use strict";require("bootstrap/dist/css/bootstrap.min.css"),require("./index.css");
 },{"bootstrap/dist/css/bootstrap.min.css":"H97Y","./index.css":"vKFU"}]},{},["Focm"], null)
-//# sourceMappingURL=/wecareonline.d3e010b7.js.map
+//# sourceMappingURL=dist/wecareonline.288a808d.js.map
